@@ -1,0 +1,32 @@
+[
+  {
+      "id": "1",
+      "city": "Hamm",
+      "temp": "3",
+      "icon": "wind.snow"
+    },
+    {
+      "id": "2",
+      "city": "München",
+      "temp": "0",
+      "icon": "snow"
+    },
+    {
+      "id": "3",
+      "city": "Berlin",
+      "temp": "-1",
+      "icon": "snow"
+    },
+    {     
+      "id": "4",
+      "city": "Dortmund",
+      "temp": "6",
+      "icon": "sun.max.fill"
+    },
+    {
+       "id": "5",
+      "city": "Köln",
+      "temp": "3",
+      "icon": "cloud.sun.fill"
+    }
+]
